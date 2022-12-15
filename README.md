@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently studying for my Bachelor's degree in Computer Science at College of Computing & Informatics - Drexel University
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-sami-alam/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/md-sami-alam/" height="30" width="40" /></a>
