@@ -1,4 +1,4 @@
-<h3 align="center">Hi👋, I’m Sami</h3>
+<h1 align="center">Hi👋, I’m Sami welcome to my Github</h1>
 
 - 🌱 I’m currently studying for my Bachelor's degree in Computer Science at College of Computing & Informatics - Drexel University
 
