@@ -5,7 +5,7 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sami-alam/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/md-sami-alam/" height="30" width="40" /></a>
-  <a href="https://devpost.com/Veteran0fdeath" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/283/862/png-transparent-logo-computer-icons-font-others-logo-black-area-thumbnail.png" alt="" height="30" width="40" /></a>
+  <a href="https://devpost.com/Veteran0fdeath" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
