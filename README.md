@@ -1,4 +1,4 @@
-<h3>👋 Hi, I’m Sami</h3>
+<h3 align=:"center">👋 Hi, I’m Sami</h3>
 
 - 🌱 I’m currently studying for my Bachelor's degree in Computer Science at College of Computing & Informatics - Drexel University
 
