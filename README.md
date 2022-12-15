@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying for my Bachelor's degree in Computer Science at College of Computing & Informatics - Drexel University
 
 <h3 align="left"> Connect with me:</h3>
-< p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sami-alam" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/md-sami-alam" height="30" width="40" /></a>
 </p>
 
