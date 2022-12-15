@@ -5,8 +5,7 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sami-alam/" target="blank"><img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/md-sami-alam/" height="30" width="40" /></a>
-  
-<a href="https://devpost.com/Veteran0fdeath" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/10/Devpost_logo-700x136.png" alt="" height="30" width="40" /></a>
+  <a href="https://devpost.com/Veteran0fdeath" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/10/Devpost_logo-700x136.png" alt="" height="30" width="40" /></a>
 </p>
 
 
