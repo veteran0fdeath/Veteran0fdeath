@@ -19,7 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veteran0fdeath&" alt="veteran0fdeath" /></p>
 
-<!---
-Veteran0fdeath/Veteran0fdeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
